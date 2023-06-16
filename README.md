@@ -9,6 +9,6 @@ List of Contributors :
 2. (ML)M125DKX4567 – Muhammad Syahrul Majid– UIN Syarif Hidayatullah Jakarta- [Inactive]
 3. (ML)M013DSX1285 – Gamaliel Noel Tulung – Universitas Sam Ratulangi- [Active]
 4. (ML)M181DSX1791 – Mohamad Arvin Fadriansyah – Universitas Indonesia - [Active]
-5. (CC)M013DSX1285 – Muh. Aqsal Ardyansa Busdaman – Universitas Mulawarman- [Active]
+5. (CC)C261DSX3570 – Muh. Aqsal Ardyansa Busdaman – Universitas Mulawarman- [Active]
 6. (CC)C125DKX4628 – Akmal Widadintya Muhammad – UIN Syarif Hidayatullah Jakarta - [Active]
 7. (MD) A026DSX2971 – Shofwan Al Faqih – Institut Teknologi dan Bisnis Kalla - Makassar [Active]
